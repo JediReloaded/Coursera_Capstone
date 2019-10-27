@@ -1,0 +1,13 @@
+Since I've been getting the following error when trying to publish my Notebook on GitHub:
+"An error occurred while publishing the notebook
+
+Try again later."
+
+Please find my notebook in Watson Studio by copying and pasting the following link:
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/b4e38eb7-7faf-4eb8-b711-df8897e91b42/view?access_token=dc151f5f55633f6525201d69fbbd6905f2f04a3f59f9c798dae83d16024f1ee3
+
+Note: Edge browser won't show the map within the notebook. This is a known error.
+Maps are shown well in Chrome, Firefox, etc.
+
+Thank you!
